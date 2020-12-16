@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "trgt-ads-optimizer",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
